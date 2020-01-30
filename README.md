@@ -1,2 +1,2 @@
-# finding_doners
+# finding_donors
 CharityML Project
